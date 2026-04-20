@@ -35,3 +35,4 @@ echo "vibe-engineering"
 # drop an unused branch
 # drop an unused branch
 # clarify the control flow
+# guard against empty input
